@@ -4,7 +4,7 @@ package com.cz.stack;
  * @author
  * 简单的计算器实现,有bug
  */
-public class CaculateStack {
+public class CaculateStack{
     public static void main(String[] args) {
         String expression = "5-2*3+1";
         ArrStack2 numberStack = new ArrStack2(10);
